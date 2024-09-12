@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_app.crew import StreamlitAppCrew
+from crew import StreamlitAppCrew
 
 # Título da aplicação
 st.title("Aplicação CrewAI com Streamlit")

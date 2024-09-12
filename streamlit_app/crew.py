@@ -1,6 +1,6 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
-from streamlit_app.llm import llama_3
+from llm import llama_3
 
 # Uncomment the following line to use an example of a custom tool
 # from agencia_noticias.tools.custom_tool import MyCustomTool
