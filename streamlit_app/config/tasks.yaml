@@ -1,0 +1,7 @@
+assistencia_task:
+  description: >
+    Responder à pergunta: '{pergunta}'. 
+    A resposta deve ser clara, concisa e não ultrapassar 140 caracteres.
+    Evite repetições e mantenha a resposta objetiva.
+  expected_output: >
+    Uma resposta clara, direta e com no máximo 140 caracteres para a pergunta: '{pergunta}'.
