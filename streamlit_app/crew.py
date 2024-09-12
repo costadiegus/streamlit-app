@@ -11,11 +11,11 @@ from llm import llama_3
 # from langchain_community.tools import DuckDuckGoSearchRun
 # scrape_tool = DuckDuckGoSearchRun()
 
-from crewai_tools import ScrapeWebsiteTool
-from crewai_tools import SerperDevTool
+# from crewai_tools import ScrapeWebsiteTool
+# from crewai_tools import SerperDevTool
 
-scrape_tool = ScrapeWebsiteTool()
-search_tool = SerperDevTool()
+# scrape_tool = ScrapeWebsiteTool()
+# search_tool = SerperDevTool()
 
 
 @CrewBase
