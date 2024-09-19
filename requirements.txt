@@ -1,4 +1,4 @@
 streamlit
 crewai
-langchain_groq
+groq
 pysqlite3-binary

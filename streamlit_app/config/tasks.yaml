@@ -1,7 +1,9 @@
 assistencia_task:
   description: >
-    Responder à pergunta: '{pergunta}'. 
+    Responder à pergunta como uma responsta pessoal do agente: '{pergunta}'. 
+    Leve em conta todas as características do agente.
     A resposta deve ser clara, concisa e não ultrapassar 140 caracteres.
     Evite repetições e mantenha a resposta objetiva.
   expected_output: >
     Uma resposta clara, direta e com no máximo 140 caracteres para a pergunta: '{pergunta}'.
+    Deve ser respondido em Português do Brasil.
